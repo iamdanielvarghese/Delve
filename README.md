@@ -59,6 +59,8 @@ Goal: Complete the levels as fast as possible to secure a spot on the leaderboar
 
 [ ] Launch a full fledged game
 
+[] Implement a "Fog of War" system where the player can only see tiles within a certain radius, increasing the difficulty and emphasizing exploration.
+
 
 
 ## Authors
