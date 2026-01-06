@@ -3,7 +3,7 @@ Delve is a Python-based procedural simulation that addresses the limitations of 
 
 Built as a "Gold Miner" themed maze game, the player (a gold square) must navigate through complex, algorithmically generated caverns to reach the exit (a green square).
 
-🚀 Features
+## 🚀 Features
 Infinite Procedural Generation: Uses Perlin Noise algorithms to create organic, cave-like structures that never repeat.
 
 Dynamic Pathfinding: Challenges players to find routes through winding mazes and narrow tunnels.
@@ -18,7 +18,7 @@ Completion Time
 
 Real-time Visualization: Powered by Pygame for smooth rendering of the terrain and player movement.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Python 3.x
 
 Graphics: Pygame
@@ -27,7 +27,7 @@ Math/Noise: Perlin Noise algorithm for terrain generation
 
 Database: SQLite3 for persistent local storage of high scores
 
-⚙️ Installation
+## ⚙️ Installation
 Clone the repository:
 
 Bash
@@ -39,24 +39,25 @@ Install dependencies: Ensure you have Python installed, then run:
 Bash
 
 pip install pygame
-🎮 How to Play
+## 🎮 How to Play
 Run the main script to start the simulation:
 
 Bash
 
 python main.py
+
 Objective: Navigate the gold square to the green exit.
 
 Controls: Use the Arrow Keys or WASD to move through the cave.
 
 Goal: Complete the levels as fast as possible to secure a spot on the leaderboard.
 
-🏗️ Future Roadmap
+## 🏗️ Future Roadmap
 [ ] Implement A* Pathfinding visualization to compare human vs. AI performance.
 
 [ ] Add different biomes and environmental hazards.
 
-[ ] Introduce fog-of-war mechanics for increased difficulty.
+[ ] Launch a full fledged game
 
 
 
