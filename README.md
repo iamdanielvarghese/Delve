@@ -1,4 +1,4 @@
-Delve: Procedural Cave Pathfinding
+##Delve: Procedural Cave Pathfinding
 Delve is a Python-based procedural simulation that addresses the limitations of static game environments. By leveraging Perlin Noise, the project generates infinite, non-repeating cave terrains, providing a unique navigational challenge in every session.
 
 Built as a "Gold Miner" themed maze game, the player (a gold square) must navigate through complex, algorithmically generated caverns to reach the exit (a green square).
