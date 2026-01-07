@@ -67,4 +67,4 @@ Goal: Complete the levels as fast as possible to secure a spot on the leaderboar
 - [Daniel Varghese] (https://github.com/iamdanielvarghese)
 - [Adil Muhammed N] (https://github.com/aadillllll)
 - [Al Fayaz Hayder]
-- [Adithyan]
+- [Adithyan] (https://github.com/adithyan11-code)
