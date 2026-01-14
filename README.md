@@ -53,18 +53,18 @@ Controls: Use the Arrow Keys or WASD to move through the cave.
 Goal: Complete the levels as fast as possible to secure a spot on the leaderboard.
 
 ## 🏗️ Future Roadmap
-[ ] Implement A* Pathfinding visualization to compare human vs. AI performance.
+- Implement A* Pathfinding visualization to compare human vs. AI performance.
 
-[ ] Add different biomes and environmental hazards.
+- Add different biomes and environmental hazards.
 
-[ ] Launch a full fledged game
+- Launch a full fledged game
 
-[] Implement a "Fog of War" system where the player can only see tiles within a certain radius, increasing the difficulty and emphasizing exploration.
+- Implement a "Fog of War" system where the player can only see tiles within a certain radius, increasing the difficulty and emphasizing exploration.
 
 
 
 ## Authors
 - [Daniel Varghese] (https://github.com/iamdanielvarghese)
 - [Adil Muhammed N] (https://github.com/aadillllll)
-- [Al Fayaz Hayder]
+- [Al Fayaz Hayder] (https://github.com/alfayazhyder)
 - [Adithyan] (https://github.com/adithyan11-code)
