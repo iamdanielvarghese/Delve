@@ -144,13 +144,13 @@ def main():
             if event.type == pygame.KEYDOWN:
                 new_x, new_y = px, py
 
-                if event.key == pygame.K_LEFT:
+                if event.key == pygame.K_a:
                     new_x -= 1
-                elif event.key == pygame.K_RIGHT:
+                elif event.key == pygame.K_d:
                     new_x += 1
-                elif event.key == pygame.K_UP:
+                elif event.key == pygame.K_w:
                     new_y -= 1
-                elif event.key == pygame.K_DOWN:
+                elif event.key == pygame.K_s:
                     new_y += 1
 
                 # Show Leaderboard
@@ -215,3 +215,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
